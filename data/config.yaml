@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Abdul Rehman
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,9 +12,9 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/abdrehman98/quartz/tree/hugo/content
 search:
-  enableSemanticSearch: false
+  enableSemanticSearch: true
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
